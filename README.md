@@ -18,7 +18,12 @@ Built for portfolio demonstration and inspired by real-world inventory problems 
 
 ## 📁 Project Structure
 
-
+hospital-equipment-tracker/
+├── equipment_data.csv # Stores all equipment info
+├── logs/
+│ └── activity_log.txt # Tracks all actions taken
+├── Main-Tracker.py # Main application script
+└── README.md # Project overview (this file)
 
 ---
 
