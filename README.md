@@ -36,6 +36,7 @@ hospital-equipment-tracker/
 
 python Main-Tracker.py
 
+#Python 3.9+ recommended
 ---
 
 ## ✅ Next Steps:
